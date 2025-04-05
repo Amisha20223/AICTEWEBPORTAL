@@ -16,23 +16,9 @@ export default function Register() {
   }
 
   return (
-<<<<<<< HEAD
     <div className="flex items-center justify-center min-h-screen bg-gray-800">
       <div className="border text-card-foreground w-full max-w-md p-6 space-y-6 bg-white rounded-lg shadow-md" data-v0-t="card">
         <h2 className="text-xl font-semibold text-center">AICTE  Web Portal Registration</h2>
-=======
-    <div className="min-h-screen bg-gray-100 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-        className="sm:mx-auto sm:w-full sm:max-w-md"
-      >
-        <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-          Create your account
-        </h2>
-      </motion.div>
->>>>>>> 781e9c2d811e137a2e3e32e564aa63db19f7b37e
 
       <motion.div
         initial={{ opacity: 0 }}
