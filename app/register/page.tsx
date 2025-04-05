@@ -12,7 +12,7 @@ export default function Register() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-800">
       <div className="border text-card-foreground w-full max-w-md p-6 space-y-6 bg-white rounded-lg shadow-md" data-v0-t="card">
-        <h2 className="text-xl font-semibold text-center">AICTE Web Portal Registration</h2>
+        <h2 className="text-xl font-semibold text-center">AICTE  Web Portal Registration</h2>
 
         <div className="space-y-2">
           <label className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70" htmlFor="name">
